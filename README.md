@@ -1,6 +1,8 @@
 # mikrorm-loopback-implementation
 
 ![version](https://img.shields.io/github/package-json/v/akadirdev/mikrorm-loopback-implementation)
+![version](https://img.shields.io/badge/%40mikro--orm%2Fcore-5.4.0-brightgreen)
+![version](https://img.shields.io/badge/%40loopback%2Fcore-3.0.1-brightgreen)
 
 This application is generated for represent implementation example of `mikro-orm` on `Loopback4` app.
 
