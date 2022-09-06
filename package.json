@@ -1,6 +1,6 @@
 {
   "name": "mikrorm-loopback-implementation",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "MikroORM Loopback4 Integration And Implementation ",
   "keywords": [
     "loopback-application",
