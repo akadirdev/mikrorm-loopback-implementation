@@ -1,5 +1,12 @@
 # mikrorm-loopback-implementation
 
+![version](https://img.shields.io/github/package-json/v/akadirdev/mikrorm-loopback-implementation)
+
+This application is generated for represent implementation example of `mikro-orm` on `Loopback4` app.
+
+You can reach custom datasource structer in `/datasources` folder.
+You can examine `sequence.ts` for understand how seperating Unit of Work according to request or `BookController` for reach CRUD operations over `Book` entity
+
 This application is generated using [LoopBack 4 CLI](https://loopback.io/doc/en/lb4/Command-line-interface.html) with the
 [initial project layout](https://loopback.io/doc/en/lb4/Loopback-application-layout.html).
 
